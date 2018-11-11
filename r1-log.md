@@ -10,3 +10,7 @@ It is broken.
 
 ### R1D2
 Added a method on scheduling app to determine first day of given month
+
+### R1D3
+Added a method to display the days in the scheduling app - no integration with graphics at this point
+Started a regression example on Kaggle
