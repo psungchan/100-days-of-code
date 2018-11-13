@@ -14,3 +14,9 @@ Added a method on scheduling app to determine first day of given month
 ### R1D3
 Added a method to display the days in the scheduling app - no integration with graphics at this point
 Started a regression example on Kaggle
+
+### R1D4
+Started working on Personal Website deisgn using framework
+
+### R1D5
+Looked at using Bootstrap for Personal Website
